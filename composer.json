@@ -1,0 +1,18 @@
+{
+    "name": "it-for-free/wp-taxonomy-category-image",
+    "type": "wordpress-plugin",
+    "description": "Taxonomy Category Image Field Добавит возможность добавлять изображение к элементам таксономии",
+    "keywords": ["wordpress", "wp", "taxonomy categoty item image file"],
+    "homepage": "http://fkn.ktu10.com/?q=node/4191",
+     
+    "require": {
+        "composer/installers": "~1.0",
+        "it-for-free/wp-addons": "dev-master" 
+    },
+    "repositories": [
+        {
+           "type": "vcs",
+           "url": "https://github.com/it-for-free/wp-addons"
+        }
+    ] 
+}
