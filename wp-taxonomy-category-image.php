@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: [WGT] Изображение для категории таксономии
+  Plugin Name: [WGT] Taxonomy category Image // Изображение для категории таксономии
   Plugin URI: https://github.com/it-for-free/wp-taxonomy-category-image
   Description: Добавит возможность добавлять изображение к элементам таксономии // Taxonomy Category Image Field
   Version: 0.0.1
